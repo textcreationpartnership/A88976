@@ -1,0 +1,207 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>XXX. Christian and politick reasons wherefore England and the Low-Countries may not have warres with each other. By Henry May, of Amsterdam.</title>
+            <author>May, Henry, fl. 1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88976</idno>
+            <idno type="STC">Wing M1389</idno>
+            <idno type="STC">Thomason E667_14</idno>
+            <idno type="STC">ESTC R206946</idno>
+            <idno type="EEBO-CITATION">99866030</idno>
+            <idno type="PROQUEST">99866030</idno>
+            <idno type="VID">118289</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88976)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118289)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 102:E667[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>XXX. Christian and politick reasons wherefore England and the Low-Countries may not have warres with each other. By Henry May, of Amsterdam.</title>
+                  <author>May, Henry, fl. 1652.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by M.S. and R.I.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>in the year 1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 15".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anglo-Dutch War, 1652-1654 --  Early works to 1800.</term>
+               <term>Great Britain --  Foreign relations --  Netherlands --  Early works to 1800.</term>
+               <term>Netherlands --  Foreign relations --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118289:1" rendition="simple:additions"/>
+            <p>XXX. Chriſtian <hi>and</hi> Politick REASONS Wherefore ENGLAND AND THE LOW-COUNTRIES May not have Warres with each other.</p>
+            <p>By HENRY MAY, of <hi>Amſterdam.</hi>
+            </p>
+            <q>
+               <bibl>PROV. 27.12.</bibl>
+               <p>A prudent man foreſeeth the evill and hideth him<g ref="char:EOLhyphen"/>ſelfe, but the ſimple paſſe on and are puniſhed.</p>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>M. S.</hi> and <hi>R I.</hi> in the Year 1652. <add>June .15.</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:118289:2"/>
+            <pb n="3" facs="tcp:118289:2"/>
+            <head>Diverſe <hi>CHRISTIAN</hi> and <hi>POLITICK</hi> REASONS Againſt VVarres betwixt ENG<g ref="char:EOLhyphen"/>LAND, and the LOW-COUNTRIES.</head>
+            <p n="1">
+               <seg rend="decorInit">I</seg> 
+               <hi>Nprimis,</hi> Becauſe the glory of God, and the Reformed Proteſtant Re<g ref="char:EOLhyphen"/>ligion, will be by the ſaid Wars, reproached and evill ſpoken of.</p>
+            <p n="2">II. Becauſe we, to God and the World, bear forth one Religion.</p>
+            <p n="3">III. Becauſe we both as a principall cauſe of our Warres, have been for one Religion and liberty of Conſcience.</p>
+            <p n="4">IIII. Becauſe we are Brethren and Neigh<g ref="char:EOLhyphen"/>bours, and ſo ought to be friends; therefore ought not to Warre with each other.</p>
+            <p n="5">V. Becauſe we both almoſt at one time, became
+<pb n="4" facs="tcp:118289:3"/>
+free States, and that granted by our greateſt Ene<g ref="char:EOLhyphen"/>mies.</p>
+            <p n="6">VI. Old friends and kindneſſes paſt, ought to be kept in everlaſting memory.</p>
+            <p n="7">VII. Againſt the common Enemy, we ought to conſider times paſt, preſent, and to come.</p>
+            <p n="8">VIII. We ought to offer up Chriſtian pray<g ref="char:EOLhyphen"/>ers both publick and private, in Church and Com<g ref="char:EOLhyphen"/>mon-wealth, for the proſperity and welfare of each other, which cannot be, in caſe we have Warres with each other.</p>
+            <p n="9">IX. Two is better then one, and a three<g ref="char:EOLhyphen"/>fold cord is not eaſily broken.</p>
+            <p n="10">X. This war will be deſtructive to both; as betwixt <hi>Abimeleck,</hi> and the men of <hi>Sichem,</hi> and <hi>Sichem</hi> againſt <hi>Abimelech;</hi> as <hi>Iſrael</hi> againſt <hi>Benjamin,</hi> and <hi>Benja<g ref="char:EOLhyphen"/>min</hi> againſt <hi>Iſrael;</hi> as <hi>Abner</hi> againſt <hi>Joab,</hi> and <hi>Joab</hi> againſt <hi>Abner;</hi> as <hi>Rehoboam</hi> againſt <hi>Jeroboam,</hi> and <hi>Jeroboam</hi> againſt <hi>Rehoboam;</hi> as <hi>Judah</hi> againſt <hi>Iſrael,</hi> and <hi>Iſrael</hi> againſt <hi>Judah:</hi> as appears in the Warres of <hi>Turkie, Spaine, Italy, France, Germany,</hi> and in <hi>England:</hi> the red Roſe againſt the white; and in the <hi>Low-Countries,</hi> ten Provinces againſt ſeven, and ſe<g ref="char:EOLhyphen"/>ven againſt ten, weakening each other, and ruinous to both.</p>
+            <p n="11">XI. We ſhall by this Warre bring upon us the curſe of poſterity, and our Children may ſay, Had our fore-fathers no other cauſe to Warre againſt their friends and neighbours, as to bring us to a bloud-bath each with other? It will occaſion laugh<g ref="char:EOLhyphen"/>ter and deriſion, ſeeing nothing but pride and am<g ref="char:EOLhyphen"/>bition, hath brought us to this condition.</p>
+            <p n="12">
+               <pb n="5" facs="tcp:118289:3"/>XII. There will be many in this cauſe troubled in conſcience, and will be conſtrained to leave the Countreys of their Nativities, for not to give or al<g ref="char:EOLhyphen"/>low any thing for the maintenance of the bloud<g ref="char:EOLhyphen"/>ſhed, and overthrow of each other, in ſuch unwar<g ref="char:EOLhyphen"/>rantable and unnaturall Warres.</p>
+            <p n="13">XIII. Before theſe times we took up Arms for the maintenance of the true Proteſtant Religion. If we ſhould now Warre againſt the ſame, how can God bleſſe ſuch endeavours; No, rather for our ſins he will make us a juſt judgement, and a rod of his wrath to chaſtiſe each other.</p>
+            <p n="14">XIIII. Many, worthy and learned, have given forth the fall and deſtruction of Antichriſt to be about this time, but ſo doing, if he were fallen, might eaſily riſe again.</p>
+            <q>
+               <lg>
+                  <head>The Spaniard.</head>
+                  <l>Los dos republicos ſun buena para mi</l>
+                  <l>So ikſe maer in groot oorloogh ſid</l>
+                  <l>Ick ſches aſem, daer toe kryge ik leſat,</l>
+                  <l>Beyde rebellen hebben elk ander int hayn gevat,</l>
+                  <l>'D als ſy beyde haer aſem ſyn quyt,</l>
+                  <l>So hoop ikſe te hebben tot myn profyt.</l>
+               </lg>
+            </q>
+            <p n="15">XV. Never any Warres ſo ſad and bitter, as theſe, if they ſhould fall betwixt us: for it will be moſt at Sea, where in former times there uſed to be no Warres; therefore amongſt Chriſtians there ought to be a free Trade, and Merchants and Mer<g ref="char:EOLhyphen"/>chandiſe unmoleſted, ought to peruſe the Seas with<g ref="char:EOLhyphen"/>out moleſtation.</p>
+            <p n="16">XVI. God oftentimes viſits mankinde at Sea, with tempeſts, and ſtormes, and other dangers,
+<pb n="6" facs="tcp:118289:4"/>
+therefore we ought not to tempt God with need<g ref="char:EOLhyphen"/>leſſe Warres.</p>
+            <p n="17">XVII. The dangers at Sea will be ſinking and burning, and a deſtroying of Ships, and Maſter and man will ſink together, without reſpect to their qualities.</p>
+            <p n="18">XVIII. How ſad and comfortleſſe will it be for the brethren of one and the ſelf-ſame ſhip; Church and profeſſion in <hi>England,</hi> and in <hi>Holland,</hi> and the Newes of unhappy and uncertaine Wars and Victories, to the deſtruction and ruine of each other, or ſhall we both ſing <hi>Te Deum Laudamus?</hi>
+            </p>
+            <p n="19">XIX. Satan was the firſt inventer of wars, betwixt <hi>Cain</hi> and <hi>Abel,</hi> and in theſe Warres there is no better Commander.</p>
+            <q>
+               <l>Theſe two republicks both ſprung in a night.</l>
+               <l>I gather ſtrength whiles that they both doe fight.</l>
+               <l>I was King of <hi>England,</hi> by marriage of the Queen,</l>
+               <l>And Earle of <hi>Holland</hi> my Predeceſsor hath been.</l>
+               <l>I will aſſiſt the one, and beat th'other by th'ears,</l>
+               <l>I will cry Ha, Ha, fight doggs fight bears.</l>
+            </q>
+            <p n="20">XX. The profit which ſhall proceed out of this unnaturall wars, ſhall be buried in the bottomleſſe Sea; where Malignants may quench their helliſh and warlike deſigne; there ſhall no bells be rung, nor any need of raiſing the Countreymen for bury<g ref="char:EOLhyphen"/>ing of the dead.</p>
+            <p n="21">XXI. The damage will be the looſing of your beſt men, Ships and Arms; likewiſe the welfare of the Countreyes ſtrength, fiſhing and trading, and open the Countrey for a forreign enemies invaſion.</p>
+            <p n="22">XXII. What profiteth it <hi>England</hi> to bear the
+<pb n="7" facs="tcp:118289:4"/>
+name of a free State and Common-wealth, and <hi>Hol<g ref="char:EOLhyphen"/>land</hi> a free fought Nation granted them, if by wars you enſlave each other? and make your ſelves ſlaves to the Common-wealth of each other, and your e<g ref="char:EOLhyphen"/>nemies? where remains then the glory of God, and the defence of true Proteſtant Religion? What profiteth that noble freedome that hath bin bought and paid for at ſo dear a rate.</p>
+            <p n="23">XXIII. Under pretence of wars betwixt you, will the Seas be filled with Sea-Rovers and Pirates, under ſhew hiding themſelves not only to have you in Warres, but alſo to keep you in the ſame, to the utter undoing of trading and traffique.</p>
+            <p n="24">XXIIII. By reaſon of your ſtrife about free Trading, other Sea-ports and Havens will have their eyes opened, and think, is there ſo much be<g ref="char:EOLhyphen"/>nefit to be had? we will likewiſe be doing, and have a Trade of our ſelves, which without this queſtion and ſtrife betwixt you, would not be thought of.</p>
+            <p n="25">XXV. Let us be content, the world is great e<g ref="char:EOLhyphen"/>nough for us two Republicks to trade to our con<g ref="char:EOLhyphen"/>tent, ſo we be not like <hi>Eſops</hi> Dog, hoping at the ſha<g ref="char:EOLhyphen"/>dow, loſt both ſhadow and ſubhance. But we ought to underſtand each other by one Law, for both Na<g ref="char:EOLhyphen"/>tions, and one rule at Sea, ſeeing all a like are inter<g ref="char:EOLhyphen"/>reſſed therewith; and thereby to regulate Trading, that all queſtion and diſpute may be deſtroyed, by wholſom and good Laws, not <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o wrong each other.</p>
+            <p n="26">XXVI. When then by this war, which God keep us from, your beſt ſouldiers are loſt, &amp; your wealth periſheth at Sea, and your own hand wrought your own ruine, conſider then whether it bad not
+<pb n="8" facs="tcp:118289:5"/>
+been better never to have began this ſport, then too late you may very very well cry, <hi>Shall the ſword de<g ref="char:EOLhyphen"/>vour for ever?</hi> Know yee not that it will be worſer in the latter end?</p>
+            <p n="27">XXVII. If then there be no other remedy, but we muſt conſume by theſe unchriſtian Warres, then inlarge your Almes houſes and hoſpitals, for doubt<g ref="char:EOLhyphen"/>leſſe you will increaſe in widows and fatherles chil<g ref="char:EOLhyphen"/>dren, which wil bid their husbands &amp; parents <hi>adieu,</hi> or <hi>farewell,</hi> but not welcom their returne.</p>
+            <p n="28">XXVIII. Therefore ſad not the heart of the diſtreſſed Natives and Inhabitants, with this dange<g ref="char:EOLhyphen"/>rous and unneceſſary war, who with ſigns do call and cry for peace, yea peace in Gods name, but cannot attain to it. Heavy will the account be of thoſe that are the firſt occaſion of this ruine. Let <hi>Mars</hi> rather be transported to thoſe that know not God, that ſpeak you fair, and inwardly hate your welfare.</p>
+            <p n="29">XXIX. But being aſſured, and well knowing the great wiſdome, diligence, and diſcretion, therefore hope that God will not turn the wiſdom of the wiſe to fooliſh<g ref="char:EOLhyphen"/>nes, but bleſſe the Peace-makers, and unite their hearts and affections each to other; not only to agree as Brethren, but alſo to make an everlaſting peace to us and our poſterity, and a good enlargement to traffique and trading, and ſo by Gods Order to underſtand each other, and ſo to keep all Pirates out of Sea.</p>
+            <p n="30">XXX. And to eſcape this damage, not only Ships and Loadings, but alſo life and poſterity, and to avoid this dark cloud and tempeſt, then ought we to offer up ſtrong prayer to God, heartily forſaking our ſins, and forthwith to pro<g ref="char:EOLhyphen"/>claim dayes of faſting and praying, and not to give ſleep to our eyes, nor ſlumber to our eye-lids, till we have received mercy and pardon from his moſt high majeſty.</p>
+            <epigraph>
+               <q>And let them be confounded and back-turned that hate <hi>Zion.</hi>
+               </q>
+            </epigraph>
+            <closer>
+               <salute>Vale.</salute>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
